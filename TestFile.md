@@ -15,3 +15,15 @@ Also, putting two spaces at the end of a line forces a manual return. Let's see 
 Yes, there is apparently. You get a notification thingy if you don't put a blank space after the header.
 
 Adding more stuff to mess with the updating thing.
+
+[Link to somewhere](http://linkgoeshere.com)
+
+[Things to Know](#things-to-know) <-- check it out! Bookmark!
+> [!NOTE]
+> Information the user should notice even if skimming
+
+1. blah
+1. blah
+1. blah
+
+Blah.
